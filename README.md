@@ -42,48 +42,7 @@ project/
 1. Clone the repository:
    ```bash
    git clone https://github.com/MellonP/load-shedding-analysis.git
-
-   Here's a complete README.md for your load shedding data analysis project:
-
-
----
-
-# South Africa Load Shedding Analysis
-
-This project analyzes load shedding trends in South Africa using historical stage data. It includes data cleaning, exploration, and visualizations to uncover patterns over time and across different time periods.
-
-## Dataset
-
-- **File**: `south_africa_load_shedding_history.csv`
-- **Source**: [Your source or link if applicable]
-- **Contents**: Timestamped records of load shedding stages in South Africa.
-
-## Project Structure
-
-. ├── data/ │   └── south_africa_load_shedding_history.csv ├── notebooks/ │   └── load_shedding_analysis.ipynb ├── visuals/ │   └── (Generated plots/images) ├── .gitignore ├── README.md └── requirements.txt
-
-## Features
-
-- Loads and preprocesses load shedding data.
-- Extracts datetime features like year, month, hour.
-- Performs descriptive statistics.
-- Visualizes:
-  - Load shedding stage trends over time.
-  - Average stage per month.
-  - Distribution of stages.
-  - Hourly patterns.
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/load-shedding-analysis.git
-   cd 
-
-## Install dependencies:
-
-pip install -r requirements.txt
-Launch Jupyter Notebook:
+   cd load-shedding-analysis
 
 ## Requirements
 Python 3.x
