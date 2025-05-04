@@ -41,7 +41,7 @@ project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MellonP/load-shedding-analysis.git
+   git clone https://github.com/MellonP/Analyzing-Data-with-Pandas-and-Visualizing-Results-with-Matplotlib.git
    cd load-shedding-analysis
 
 ## Requirements
