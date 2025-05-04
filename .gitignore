@@ -14,15 +14,11 @@ venv/
 .vscode/
 
 # Data and outputs
-*.csv
 *.xlsx
 *.xls
 *.json
 *.zip
 *.tar.gz
-
-# If you want to keep data files, comment out the above line or ignore specific large files
-# data/*.csv
 
 # MacOS
 .DS_Store
